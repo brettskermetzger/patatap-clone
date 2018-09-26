@@ -1,0 +1,24 @@
+{
+  "name": "patatap-clone",
+  "version": "1.0.0",
+  "description": "Patatap Clone",
+  "main": "key-data.js",
+  "dependencies": {
+    "paper": "^0.11.5",
+    "howler": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettskermetzger/patatap-clone.git"
+  },
+  "author": "Brett Metzger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettskermetzger/patatap-clone/issues"
+  },
+  "homepage": "https://github.com/brettskermetzger/patatap-clone#readme"
+}
